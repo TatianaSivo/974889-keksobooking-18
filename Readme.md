@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Tatiana Sivo](https://up.htmlacademy.ru/javascript/18/user/974889).
-* Наставник: [Альбина Токарчук] (https://htmlacademy.ru/profile/id167491).
+* Наставник: [Альбина Токарчук](https://htmlacademy.ru/profile/id167491).
 
 ---
 
